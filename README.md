@@ -1,6 +1,8 @@
 Github Theme for Sublime Text 2
 ===============================
 
+It's mainly focused on making Go(lang) source files look like on Git. Will amend to support JS as well.
+
 ### Installation
 `cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/github-sublime-theme-master/ && git clone https://github.com/gbbr/sublime-github-theme-go.git`
 
