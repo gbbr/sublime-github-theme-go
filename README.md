@@ -3,6 +3,10 @@ Github Theme for Sublime Text 2
 
 It's mainly focused on making Go(lang) source files look like on Git. Will amend to support JS as well.
 
+### Screenshot
+
+![Theme screenshot](https://raw.githubusercontent.com/gbbr/sublime-github-theme-go/master/screenshot.png)
+
 ### Installation
 `cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/github-sublime-theme-master/ && git clone https://github.com/gbbr/sublime-github-theme-go.git`
 
@@ -23,9 +27,5 @@ You might also want to do the following in your settings (Cmd+,):
 	"line_padding_top": 1.5
 }
 ```
-
-### Screenshot
-
-![Theme screenshot](https://raw.githubusercontent.com/gbbr/sublime-github-theme-go/master/screenshot.png)
 
 Regards to original theme @ [Alexander Ekdahl](https://github.com/AlexanderEkdahl/github-sublime-theme)
