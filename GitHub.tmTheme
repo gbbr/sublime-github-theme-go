@@ -10,7 +10,7 @@
           <key>settings</key>
           <dict>
               <key>background</key>
-              <string>#FFFFFF</string>
+              <string>#fff</string>
               <key>caret</key>
               <string>#000000</string>
               <key>foreground</key>
@@ -30,6 +30,17 @@
               <key>findHighlightForeground</key>
               <string>#000000</string>
           </dict>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>GitGutter changed</string>
+        <key>scope</key>
+        <string>markup.changed.git_gutter</string>
+        <key>settings</key>
+        <dict>
+          <key>foreground</key>
+          <string>#967EFB</string>
+        </dict>
       </dict>
       <dict>
           <key>name</key>
